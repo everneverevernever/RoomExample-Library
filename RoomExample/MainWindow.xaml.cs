@@ -38,7 +38,7 @@ namespace RoomExample
         {
             ButtonOpen2.IsEnabled = true;
             room1.RoomLength = rnd.Next(2, 11);
-            room2.RoomWidth = rnd.Next(2, 11);
+            room1.RoomWidth = rnd.Next(2, 11);
             int numP = rnd.Next(1, 9);
 
             LabelLength1.Content = room1.RoomLength;
