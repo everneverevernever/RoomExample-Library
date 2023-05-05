@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Rooms"
         mc:Ignorable="d"
-        Title="MainWindow" Height="500" Width="900">
+        Title="Помещения" Height="500" Width="900">
     <Grid>
         <Rectangle HorizontalAlignment="Left" Height="342" Margin="12,24,0,0" Stroke="Black" VerticalAlignment="Top" Width="162" Fill="#FFA5E4BD"/>
         <Rectangle HorizontalAlignment="Left" Height="342" Margin="180,24,0,0" Stroke="Black" VerticalAlignment="Top" Width="162" Fill="#FFC3AFF1"/>
